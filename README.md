@@ -1,2 +1,3 @@
 # Sorting
-This repository will contain C files on different types of sorting algorithm
+This repository contains C files on different types of sorting algorithm
+in shortest time possible.
